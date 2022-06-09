@@ -1,0 +1,6 @@
+.border-gray-800 {
+    /* --tw-border-opacity: 1; */
+    border-color: rgb(31 41 55 / var(--tw-border-opacity));
+    height: 2.5em;
+    border: 0.1em solid #e3d8d8;
+}
